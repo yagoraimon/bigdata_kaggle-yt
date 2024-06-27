@@ -7,6 +7,11 @@ Este projeto realiza uma análise de dados de diversos canais do YouTube voltado
 Os dados extraídos estão disponíveis em:<br>
 https://www.kaggle.com/datasets/abhishek0032/youtube-dataset-all-data-scienceanalyst-channels
 
+## Relatório
+
+Acesse o documento completo do relatório do projeto em:<br>
+https://docs.google.com/document/d/1D1pwHCs1VwXg-65L4AgihqEaWt4FY3rbY5DRknq-ujc/edit?usp=sharing
+
 ## Desenvolvimento
 
 O projeto foi realizado usando a ferramenta Google Colab para consumnir, tratar e análisar todos os dados utilizados no desenvolvimento e relátorio.
