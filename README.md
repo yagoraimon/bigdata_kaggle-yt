@@ -4,11 +4,18 @@
 
 Este projeto realiza uma análise de dados de diversos canais do YouTube voltados para ciência de dados e análise. Utilizando PySpark, um poderoso framework para processamento de grandes volumes de dados, a análise visa extrair insights sobre o desempenho dos vídeos desses canais. As principais métricas analisadas incluem o número de visualizações, a contagem de likes e o número de comentários.
 
+Os dados extraídos estão disponíveis em:<br>
+https://www.kaggle.com/datasets/abhishek0032/youtube-dataset-all-data-scienceanalyst-channels
+
+## Desenvolvimento
+
+O projeto foi realizado usando a ferramenta Google Colab para consumnir, tratar e análisar todos os dados utilizados no desenvolvimento e relátorio.
+
 Acesse o arquivo original em:<br>
 https://colab.research.google.com/drive/1L5Kuhm-KctxGJw0lqi9UM4aPnFWHobXX
 <br>
 
-Caso não consiga acessar, por qualquer motivo, replique a metodologia seguindo as instruções.
+Caso não consiga acessar, por qualquer motivo, replique a metodologia que eu utilizei seguindo as instruções abaixo.
 
 ## Instruções
 
